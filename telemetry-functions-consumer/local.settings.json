@@ -1,0 +1,14 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;EndpointSuffix=core.windows.net;AccountName=psync;AccountKey=tgb2m3kyf5ICEqfv+nRoc9ubJYcP0OM9JQSLRUbE1PHg6mzb6x1rbmMbt2J1LX6OQi7FWWwAsUkF+AStyns7vg==;BlobEndpoint=https://psync.blob.core.windows.net/;FileEndpoint=https://psync.file.core.windows.net/;QueueEndpoint=https://psync.queue.core.windows.net/;TableEndpoint=https://psync.table.core.windows.net/",
+    "FUNCTIONS_WORKER_RUNTIME": "java",
+    "FUNCTIONS_EXTENSION_VERSION": "~4",
+    "WEBSITE_CONTENTAZUREFILECONNECTIONSTRING": "DefaultEndpointsProtocol=https;EndpointSuffix=core.windows.net;AccountName=psync;AccountKey=tgb2m3kyf5ICEqfv+nRoc9ubJYcP0OM9JQSLRUbE1PHg6mzb6x1rbmMbt2J1LX6OQi7FWWwAsUkF+AStyns7vg==",
+    "WEBSITE_CONTENTSHARE": "eventhubappfunction-c090d12a5fcad",
+    "APPLICATIONINSIGHTS_CONNECTION_STRING": "InstrumentationKey=ea2558ec-bc67-4561-8f5e-542310f7a76a;IngestionEndpoint=https://canadacentral-1.in.applicationinsights.azure.com/;LiveEndpoint=https://canadacentral.livediagnostics.monitor.azure.com/;ApplicationId=34c8bb3b-9cc7-4ef5-be94-f111ab5ba025",
+    "EventHubConnectionString": "Endpoint=sb://psynceventhubdemo.servicebus.windows.net/;SharedAccessKeyName=eventhubauthrule;SharedAccessKey=B4ZnnW3e+XY1DZ9pQzp711AUff0erXhdK+AEhN7926g=;EntityPath=psynceventhubazure",
+    "CosmosDBConnectionString": "AccountEndpoint=https://psyncdb.documents.azure.com:443/;AccountKey=JaSPSEBgJuMOFUFSpnsRnAAYQr4s4We08VzVCsqNVugEu0U1lkLTtgprmzewSQD7F7eZACP9l2riACDbvDu3pA==;"
+  },
+  "ConnectionStrings": {}
+}
